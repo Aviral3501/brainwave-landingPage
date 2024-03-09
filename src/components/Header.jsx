@@ -5,6 +5,8 @@ import Button from "./Button";
 import MenuSvg from "../assets/svg/MenuSvg";
 import {HamburgerMenu} from "./design/Header";
 import { useState } from "react";
+import { disablePageScroll , enablePageScroll} from "scroll-lock";
+// to lock scrolling of the page unless clicked on nav item
 
 
 const Header = () => {
@@ -15,13 +17,19 @@ const Header = () => {
     const toggleNavigation = () =>{
         if(openNavigation){
             setOpenNavigation(false);
+            enablePageScroll();
         }else{
             setOpenNavigation(true);
+            disablePageScroll();
         }
     }
 
     //to close the menu in small display once clicked any menu item
     const handleClick =()=>{
+        if(!openNavigation){
+            return;
+        }
+        enablePageScroll();//allow scrolling when when nav is open and item is clicked
         setOpenNavigation(false);
     }
    
