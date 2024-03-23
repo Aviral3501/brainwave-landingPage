@@ -63,12 +63,14 @@ const Services = () => (
                 </li>
               ))}</ul>
             </div>
-
+            <div className='relative h-[20rem] bg-n-8 rounded-xl overflow-hidden md:h-[25rem]'>
+                  <img src={service3} className='w-full h-full object-cover rounded-3xl' width={520} height={400} alt="img" />
+                  <VideoChatMessage/>
+                  <VideoBar/>
+            </div>
           </div>
         </div>
-
-
-
+          <Gradient/>
       </div>
 
     </div>
