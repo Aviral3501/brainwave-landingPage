@@ -9,13 +9,12 @@
 </p>
 
 <p align="center"> 
- [View Live Demo](https://brainwave-landingpage.onrender.com/)
+  <a href="https://brainwave-landingpage.onrender.com/" style="background-color: #ff4d4f; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">View Live Demo</a>
 </p>
-
 
 ---
 
-## :rocket: Features
+## Features
 
 - **Visually Appealing**: Designed with futuristic aesthetics and captivating parallax effects to engage users.
 - **Responsive Design**: Ensures seamless viewing experience across various devices and screen sizes.
@@ -23,7 +22,7 @@
 - **Interactive Elements**: Incorporates dynamic elements and animations for enhanced user interaction.
 - **Easy Customization**: Simple and modular structure allows for easy customization and integration with backend services.
 
-## :computer: Technologies Used
+## Technologies Used
 
 - **Vite**: Fast and minimalist build tooling for modern web development.
 - **HTML5 & CSS3**: Standard markup and styling languages for creating web pages.
@@ -31,7 +30,7 @@
 - **Parallax Effects**: Utilizes parallax scrolling techniques to create depth and immersion.
 - **FontAwesome**: Provides a wide range of icons for visual enhancement and user experience.
 
-## :inbox_tray: Usage
+## Usage
 
 1. Clone the repository:
 
@@ -43,7 +42,7 @@
 
 3. Interact with the futuristic AI chatbot interface and explore the visually appealing design.
 
-## :wrench: Development
+## Development
 
 To contribute to Brainwave development:
 
@@ -71,16 +70,14 @@ To contribute to Brainwave development:
 
 6. Open a pull request detailing your changes.
 
-## :busts_in_silhouette: Contributors
+## Contributors
 
 - Aviral Singh(https://github.com/Aviral3501)
-
-
 
 ---
 
 <div align="center">
   <p>Connect with us:</p>
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?style=social" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/yourlinkedinprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourtwitterhandle" style="color: #1890ff;"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?style=social" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/yourlinkedinprofile" style="color: #1890ff;"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
 </div>
