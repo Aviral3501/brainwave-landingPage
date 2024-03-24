@@ -9,7 +9,7 @@
 </p>
 
 <p align="center> 
-  <a href="https://brainwave-landingpage.onrender.com/">Live</a>
+ [View Live Demo]([https://brainwave-landingpage.onrender.com/])
 </p>
 
 
@@ -73,13 +73,9 @@ To contribute to Brainwave development:
 
 ## :busts_in_silhouette: Contributors
 
-- [Your Name](https://github.com/yourusername)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+- Aviral Singh(https://github.com/Aviral3501)
 
-## :page_with_curl: License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
