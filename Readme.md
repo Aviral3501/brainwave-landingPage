@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://yourwebsite.com/brainwave-logo.png" alt="Brainwave Logo" width="200">
+  <img src="src/assets/brainwave-symbol.svg" alt="Brainwave Logo" width="200">
 </div>
 
 <h1 align="center">Brainwave</h1>
