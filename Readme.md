@@ -8,19 +8,10 @@
   A visually stunning and futuristic landing page for Brainwave, the frontend of an AI chatbot like ChatGPT.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-blue">
-  <img src="https://img.shields.io/github/license/yourusername/brainwave">
+<p align="center> 
+  <a href="https://brainwave-landingpage.onrender.com/">Live</a>
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#technologies-used">Technologies Used</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#development">Development</a> •
-  <a href="#contributors">Contributors</a> •
-  <a href="#license">License</a>
-</p>
 
 ---
 
