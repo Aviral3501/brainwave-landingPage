@@ -8,8 +8,8 @@
   A visually stunning and futuristic landing page for Brainwave, the frontend of an AI chatbot like ChatGPT.
 </p>
 
-<p align="center> 
- [View Live Demo]([https://brainwave-landingpage.onrender.com/])
+<p align="center"> 
+ [View Live Demo](https://brainwave-landingpage.onrender.com/)
 </p>
 
 
